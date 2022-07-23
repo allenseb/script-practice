@@ -1,0 +1,16 @@
+#card{
+    display: flex;
+    padding-left: 2%; 
+    font-size: x-large;
+    background-color: blue;
+    color:antiquewhite;
+}
+
+#click{
+    display: inline-block;
+padding: 2.5%;
+font-size: larger;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:coral;
+background-color: black;
+}
